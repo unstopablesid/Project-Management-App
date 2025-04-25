@@ -1,0 +1,20 @@
+{
+  "name": "project-management-app",
+  "version": "1.0.0",
+  "description": "\"# Project-Management-App\"",
+  "homepage": "https://github.com/unstopablesid/Project-Management-App#readme",
+  "bugs": {
+    "url": "https://github.com/unstopablesid/Project-Management-App/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unstopablesid/Project-Management-App.git"
+  },
+  "license": "ISC",
+  "author": "Mayur",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
