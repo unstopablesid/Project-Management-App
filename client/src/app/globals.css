@@ -14,5 +14,5 @@ body,
   width: 100%;
   @apply text-sm;
   @apply text-gray-900;
-  @apply bg-gray-50;
+  @apply bg-black;
 }
