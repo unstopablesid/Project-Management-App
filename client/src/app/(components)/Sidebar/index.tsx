@@ -2,7 +2,7 @@ import React from 'react'
 
 
 
-const index = (props: Props) => {
+const index = () => {
   return (
     <div>index</div>
   )
